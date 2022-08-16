@@ -1,6 +1,1 @@
-meu segundo arquivo git
-
-alteração feita no master
-
-alguma nova linha legal
-mais uma linha legal
+Meu primeiro sistema no git(alterado e atualizado)
